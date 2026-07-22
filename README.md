@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud4265 &show_icons=true&theme=radical)](https://github.com/github/readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud4265&show_icons=true&theme=radical)](https://github.com/github/readme-stats)
 
 <!--
 **Mahmoud4265/Mahmoud4265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
