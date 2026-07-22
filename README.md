@@ -45,27 +45,13 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
-<!-- Typing Effect Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&height=50&lines=Hey+There!+I'm+Mahmoud+👋;Data+Analytics+%26+Python+Developer;NumPy+%26+Pandas+Wizard+🧙‍♂️;Building+Zero_To_Hero_Python+🚀" alt="Typing SVG" />
-
-<br>
-
-<!-- Cool Terminal Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=180&section=header&text=Welcome%20To%20My%20Terminal&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%" />
-
-</div>
-
----
-
 ### 🧠 `whoami`
 
 ```bash
 $ cat mahmoud.json
 {
-  "username": "Mahmoud4265",
-  "name": "Mahmoud Abdelrahman",
+  "name": "Mahmoud",
+  "github_username": "Mahmoud4265",
   "role": "Data Analyst & Python Developer",
   "learning_path": "Zero To Hero Python 🐍",
   "current_focus": ["Pandas Mastery", "Exploratory Data Analysis", "Vectorized Computing"],
