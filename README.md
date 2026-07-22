@@ -19,6 +19,55 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud4265&theme=radical)](https://git.io/streak-stats)
 <div align="center">
 
+# 👋 Hi, I'm Mahmoud Abdelrahman
+### Data Analyst | Python & Vectorized Computing Enthusiast
+
+`Python` • `NumPy` • `Pandas` • `Data Analysis` • `Git/GitHub`
+
+---
+
+</div>
+
+### 🎯 About Me
+
+> **"Transforming raw data into strategic insights."**
+
+* 🎓 **Focus:** Learning & Mastering Data Analysis & Software Development.
+* 🚀 **Current Project:** Building **[Zero_To_Hero_Python](https://github.com/Mahmoud4265/Zero_To_Hero_Python)** — A complete open-source roadmap for Python in Data Science.
+* 🏆 **Milestone Achieved:** Solved & Documented **100/100 NumPy Exercises** + Real-World Analytics Pipelines (`Tips` & `Food Delivery`).
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** `Python`
+* **Data Libraries:** `NumPy`, `Pandas`
+* **Data Visualization:** `Matplotlib`, `Seaborn`
+* **Tools & Workflow:** `Git`, `GitHub`, `Jupyter Notebook`, `VS Code`
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+
+<!-- Minimalist Dark Card -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mahmoud4265&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoud4265)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MahmoudAbd3451)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmedo1883@gmail.com)
+
+</div>
 <!--
 **Mahmoud4265/Mahmoud4265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
