@@ -16,6 +16,19 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mahmod4265)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud4265&theme=radical)](https://git.io/streak-stats)
+
+<div align="center">
+
+<!-- Orbit / Futuristic Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=orbit&color=0:00F0FF,100:7000FF&height=210&section=header&text=MAHMOUD%20ABDELRAHMAN&fontSize=32&fontColor=ffffff&animation=twinkle" width="100%" />
+
+<br>
+
+### 🛸 `Data Analytics` • `Python Architecture` • `Vectorized Computing`
+
+```text
+ 🪐  Exploring Data  ───►  🧩  Vectorizing Logic  ───►  📊  Extracting Insights
+🌌 system.bio"Transforming complex raw data into strategic, actionable insights."🎓 Academic Path: Data Analysis & Software Engineering Studies.🚀 Core Roadmap: Zero_To_Hero_Python — Open-Source Guide for Python in Data Science.🏆 Recent Orbit Completed: Mastered NumPy Core Concepts & Vectorized Paradigms.Solved & Documented 100/100 NumPy GitHub Exercises.Developed Analytics Pipelines for Real-World Datasets (Tips & Food Delivery).🧰 tech.stackEcosystemTools & TechnologiesCore ProgrammingPython 3.xData EngineNumPy • PandasData VisualizationMatplotlib • SeabornEnvironment & ControlGit • GitHub • Jupyter • VS Code💫 github.telemetry🛰️ connect.with_me
 <!--
 **Mahmoud4265/Mahmoud4265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
