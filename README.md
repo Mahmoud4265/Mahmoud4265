@@ -17,6 +17,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud4265&theme=radical)](https://git.io/streak-stats)
+"""
 
 **Mahmoud4265/Mahmoud4265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  """
