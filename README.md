@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Futuristic HUD Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:111827,100:090d16&height=180&section=header&text=MAHMOUD%20ABDELRAHMAN&fontSize=34&fontColor=00f0ff&animation=fadeIn&desc=%5B%20DATA%20ANALYTICS%20%26%20VECTORIZED%20COMPUTING%20ARCHITECT%20%5D&descSize=12&descAlignY=66" width="100%" />
+<!-- Pure Markdown HUD Header -->
+# ╔═════════════════════════════════════════════════════════════╗
+# ║                  MAHMOUD ABDELRAHMAN                        ║
+# ║     [ DATA ANALYTICS & VECTORIZED COMPUTING ARCHITECT ]     ║
+# ╚═════════════════════════════════════════════════════════════╝
 
 <br>
 
@@ -23,3 +26,10 @@ Current_Focus:
   - Open-Source Pipeline Architecture
 Core_Engine: "Zero_To_Hero_Python"
 Data_Philosophy: "Transforming high-dimensional data into sharp strategic decisions."
+📡 TELEMETRY // FEATURED WORK📂 Zero_To_Hero_Python — The Open-Source Analytics EnginePlaintext╔═══════════════════════════════════════════════════════════════════════════╗
+║  [ 🎯 MILESTONE 01 ] NumPy Mastery          │ 100/100 Solved & Documented ║
+║  [ 📊 MILESTONE 02 ] Food Delivery Pipeline │ EDA & Business Insights     ║
+║  [ 💡 MILESTONE 03 ] Tips Dataset Analysis  │ Statistical Profiling       ║
+║  [ 🐼 MILESTONE 04 ] Pandas Framework       │ [ IN PROGRESS... ]          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+🛠️ ARSENAL // TECH MATRIXLayerTools & StackCore LanguageData Engines Visualization HUD ML & Analytics Frameworks  Environment & Database   ⚡ ANALYTICS // LIVE TELEMETRY🔗 CONNECT // SIGNAL INTERCEPT
