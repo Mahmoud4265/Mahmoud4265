@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Galactic Purple Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=220&section=header&text=MAHMOUD%20ABDELRAHMAN&fontSize=32&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=🪐%20GALACTIC%20DATA%20ANALYTICS%20%26%20PYTHON%20ARCHITECT&descAlignY=62&descAlign=50" width="100%" />
+<!-- Galactic Purple Header (Fixed URL Encoding) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7z00ff&amp;height=220&amp;section=header&amp;text=MAHMOUD%20ABDELRAHMAN&amp;fontSize=32&amp;fontColor=ffffff&amp;animation=twinkle&amp;fontAlignY=38&amp;desc=%F0%9F%AA%90%20GALACTIC%20DATA%20ANALYTICS%20%26%20PYTHON%20ARCHITECT&amp;descAlignY=62&amp;descAlign=50" width="100%" />
 
 <br>
 
@@ -14,6 +14,15 @@
 
 ---
 
+### 🔮 `COSMIC_PROFILE // WHOAMI`
+
+> *"Navigating complex data chaos and transforming it into clear, strategic galactic constellations."*
+
+```text
+  ✨ [ OPERATOR ]      : Mahmoud Abdelrahman
+  🪐 [ MISSION ]       : Data Analytics & Python Development Architecture
+  🌌 [ CORE ROADMAP ]  : Zero_To_Hero_Python
+  🔭 [ CURRENT ORBIT ] : Advanced Vectorized Computing & Real-world Data Pipelines
 ### 🔮 `COSMIC_PROFILE // WHOAMI`
 
 > *"Navigating complex data chaos and transforming it into clear, strategic galactic constellations."*
