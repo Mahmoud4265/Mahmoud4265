@@ -25,7 +25,8 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mahmod4265)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-                             [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud4265&theme=radical)](https://git.io/streak-stats)
+                             
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud4265&theme=radical)](https://git.io/streak-stats)
 
 <div align="center">
 <!-- Minimal Live Status Matrix -->
