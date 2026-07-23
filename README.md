@@ -33,4 +33,6 @@ Data_Philosophy: "Transforming high-dimensional data into sharp strategic decisi
 ║  [ 💡 MILESTONE 03 ] Tips Dataset Analysis  │ Statistical Profiling       ║
 ║  [ 🐼 MILESTONE 04 ] Pandas Framework       │ [ IN PROGRESS... ]          ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
-🛠️ ARSENAL // TECH MATRIXLayerTools & StackCore LanguageData Engines Visualization HUD ML & Analytics Frameworks  Environment & Database   ⚡ ANALYTICS // LIVE TELEMETRY🔗 CONNECT // SIGNAL INTERCEPT
+🛠️ ARSENAL // TECH MATRIXLayerTools & StackCore LanguageData Engines Visualization HUD ML & Analytics Frameworks  Environment & Database
+⚡ ANALYTICS // LIVE TELEMETRY
+🔗 CONNECT // SIGNAL INTERCEPT
